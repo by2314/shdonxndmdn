@@ -34,9 +34,7 @@ pkg install make
 
 在 Termux 中，你可以通过 `git` 来克隆本项目的 GitHub 仓库：
 
-```bash
-git clone https://github.com/ELMA0158/GFP_B_SourceCode.git
-cd GFP_B_SourceCode
+``
 ```
 
 #### 4. 编译 C++ 文件
